@@ -1,0 +1,130 @@
+[
+   [
+    {
+        "student_id": 1,
+        "name": "John Doe",
+        "grade": "A",
+        "percentage": 90.5
+      },
+      {
+        "student_id": 2,
+        "name": "Jane Smith",
+        "grade": "B",
+        "percentage": 78.2
+      },
+      {
+        "student_id": 3,
+        "name": "Bob Johnson",
+        "grade": "C",
+        "percentage": 65.8
+      },
+      {
+        "student_id": 4,
+        "name": "Alice Williams",
+        "grade": "A",
+        "percentage": 92.7
+      },
+      {
+        "student_id": 5,
+        "name": "Charlie Brown",
+        "grade": "B",
+        "percentage": 84.3
+      },
+      {
+        "student_id": 6,
+        "name": "John cena",
+        "grade": "A",
+        "percentage": 90.5
+      },
+      {
+        "student_id": 7,
+        "name": "Jane wick",
+        "grade": "B",
+        "percentage": 78.2
+      },
+      {
+        "student_id": 8,
+        "name": "akram sakib",
+        "grade": "C",
+        "percentage": 65.8
+      },
+      {
+        "student_id": 9,
+        "name": "Fahim Islam",
+        "grade": "A",
+        "percentage": 92.7
+      },
+      {
+        "student_id": 10,
+        "name": "Hazrat Ali",
+        "grade": "B",
+        "percentage": 84.3
+      }
+   ],
+
+   [
+    
+        {
+          "student_id": 101,
+          "name": "Emily Davis",
+          "grade": "B+",
+          "percentage": 88.9
+        },
+        {
+          "student_id": 102,
+          "name": "Michael Johnson",
+          "grade": "A-",
+          "percentage": 91.2
+        },
+        {
+          "student_id": 103,
+          "name": "Sophia Martinez",
+          "grade": "C+",
+          "percentage": 76.5
+        },
+        {
+          "student_id": 104,
+          "name": "Daniel White",
+          "grade": "A+",
+          "percentage": 95.8
+        },
+        {
+          "student_id": 105,
+          "name": "Olivia Wilson",
+          "grade": "B",
+          "percentage": 82.4
+        },
+        {
+          "student_id": 101,
+          "name": " Davis emily",
+          "grade": "B+",
+          "percentage": 88.9
+        },
+        {
+          "student_id": 102,
+          "name": "Michael jackson",
+          "grade": "A-",
+          "percentage": 91.2
+        },
+        {
+          "student_id": 103,
+          "name": "Sophia white",
+          "grade": "C+",
+          "percentage": 76.5
+        },
+        {
+          "student_id": 104,
+          "name": "Daniel Martinez",
+          "grade": "A+",
+          "percentage": 95.8
+        },
+        {
+          "student_id": 105,
+          "name": "Olive oil",
+          "grade": "B",
+          "percentage": 82.4
+        }
+      
+   ]
+]
+  
