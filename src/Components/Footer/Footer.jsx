@@ -1,5 +1,5 @@
 
-
+// Footer js
 const Footer = () => {
     return (
         <footer className="py-6 md:py-8">
