@@ -2,7 +2,7 @@ import ClassOne from "./ClassOne/ClassOne";
 import ClassTwo from "./ClassTwo/ClassTwo";
 import studentINfo from "../../../assets/StudentInfo.json";
 import { useState, useEffect } from "react";
-
+// Student Table js
 const StudentsTable = () => {
   const [classOneInfo, setClassOneInfo] = useState(studentINfo[0]);
   const [classTwoInfo, setClassTwoInfo] = useState(studentINfo[1]);
