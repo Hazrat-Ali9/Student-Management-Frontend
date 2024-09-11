@@ -9,3 +9,5 @@ export default {
   },
   plugins: [],
 }
+
+// tailwind css
