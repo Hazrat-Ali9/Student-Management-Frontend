@@ -2,7 +2,7 @@ import Footer from "../Footer/Footer";
 import Header from "../Header/Header";
 import Main from "../Main/Main";
 
-
+// Body Js
 const Body = () => {
     return (
         <div className="bg-[#172227] font-sans text-white">
