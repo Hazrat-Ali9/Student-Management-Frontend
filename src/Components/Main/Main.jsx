@@ -1,4 +1,4 @@
-
+// Main js
 import SearchBox from './SearchBox/SearchBox';
 import StudentsTable from './StudentsTable/StudentsTable';
 
