@@ -10,4 +10,4 @@ export default {
   plugins: [],
 }
 
-// tailwind css
+// Tailwind Css
