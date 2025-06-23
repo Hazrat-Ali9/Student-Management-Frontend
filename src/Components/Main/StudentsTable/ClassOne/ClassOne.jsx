@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 
-// ClassOne Js
+// Class One Js
 const ClassOne = ({informationForOne,index}) => {
 
     const {name,grade,percentage} = informationForOne;
