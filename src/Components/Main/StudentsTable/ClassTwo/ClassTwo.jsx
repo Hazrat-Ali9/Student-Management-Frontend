@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 const ClassTwo = ({informationForTwo,index}) => {
-
+// class two
     const {name,grade,percentage} = informationForTwo;
 
   return (
